@@ -22,5 +22,6 @@
       padding: 25px 0 0;
       max-width: calc(100vw - 2 * 16px);
       margin: 0 auto;
+      /*padding: 12px 15px 0;*/
     }
   }
