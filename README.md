@@ -1,6 +1,7 @@
 # Проект: Путешествие по России
 
-![image](https://github.com/dashasavostina/russian-travel/assets/85075899/a91e6ef6-a3f2-4651-a4d1-680ee9d97f66)
+![russian-travel](https://github.com/dashasavostina/russian-travel/assets/85075899/997d6c62-b711-4e8b-8a66-c817d7472134)
+
 
 Одностраничный, адаптивный сайт, который создан с использованием HTML и CSS.
 Реализован по правилам Flexbox, Grid Layout, используется CSS анимация, медиазапросы, подключены шрифты. Файловая структура организована по файловой структуре Nested БЭМ.
